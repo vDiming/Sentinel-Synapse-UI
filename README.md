@@ -2,10 +2,7 @@
 Custom Synapse X user interface, by Cread#7503
 A custom Synapse X user interface with the following changes:
 
-1. A brand new look! But, just like the same old Synapse you know.
-2. A new color scheme!
-3. Animations!
-4. Custom controls. no Bunifu UI skidded shit!
+1. Sentinel
 5. Synapse X library syntax highlighting within the AceEditor!
 6. (Actually) working AceEditor script file system!
 7. Built-in error help information!
