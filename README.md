@@ -1,5 +1,5 @@
 # https://discord.gg/KKbqaWtz4h
-Custom Synapse X user interface, by some dude.
+Custom Synapse X user interface, by me.
 A custom Synapse X user interface with the following changes:
 
 1. Sentinel
