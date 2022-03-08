@@ -10,7 +10,8 @@ A custom Synapse X user interface with the following changes:
 9. And much more!
 
 # Screenshots
-![image](https://user-images.githubusercontent.com/91637802/157155181-cf905a45-f4e2-4ada-a2fc-0176891ee2c1.png)
+![image](https://user-images.githubusercontent.com/91637802/157244386-46299733-0b5c-4155-971e-7196277f1eb8.png)
+
 
 # Installation
 Simply download the exe simply from the github. Once done drag it into your Synapse X main directory make sure the "sxlibb.dll" file is also in your main Synapse X directory.
