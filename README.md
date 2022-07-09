@@ -1,4 +1,4 @@
-# https://discord.gg/gY3hbqyGg7
+# hhttps://discord.gg/FMf2u4SpAn
 Custom Synapse X user interface, by me.
 A custom Synapse X user interface with the following changes:
 
